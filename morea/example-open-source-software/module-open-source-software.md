@@ -1,6 +1,6 @@
 ---
 title: "Open Source Software"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: example-open-source-software
 morea_outcomes:
@@ -25,6 +25,3 @@ morea_end_date: "2021-07-23T23:00"
 ---
 
 How to participate effectively in open source software development.
-
-
-

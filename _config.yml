@@ -7,13 +7,13 @@ baseurl: /ci-tracs
 morea_theme: spacelab
 timezone: Pacific/Honolulu
 morea_navbar_items:
-  - Prerequisites
+  # - Prerequisites
   - Modules
   - Outcomes
   - Readings
   - Experiences
   - Assessments
-  - Schedule
+  # - Schedule
 logger_factory:
   Morea: error
 

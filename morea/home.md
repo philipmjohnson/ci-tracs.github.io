@@ -5,27 +5,25 @@ morea_type: home
 published: true
 ---
 
-## Welcome to ICS 199, Fall 2021
+## Welcome to CI-TRACS
 
 <div class="alert alert-danger" role="alert" markdown="1">
+<i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: Not a real CI-TRACS site.**
+<hr/>
 
-  <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: this is not a website for a real course.**
-  <hr/>
-  
-  It is actually the "demo" site for the Morea Framework. 
+This site is currently a mockup that illustrates:
 
-  See the <a href="https://morea-framework.github.io">Morea Framework Project Site</a> for details.
+1. how the CI-TRACS workshops could be represented as Morea modules, and
+2. to explore the pros and cons of this approach.
+
+It does not include all of the CI-TRACS workshops and/or material that would be needed for a real CI-TRACS site.
 </div>
 
-ICS 199 is a four week overview of selected topics in computer science, including Javascript, Open Source Software, and Ethics.
 
-## Who should take this course
 
-This course is intended for undergraduates in computer science or computer engineering who have a working knowledge of at least one programming language and who want to get a taste of important topics in the field.
+## About this site
 
-## Pedagogy
-
-ICS 199 is structured as a sequential series of [modules](/modules), each taking approximately a week to complete. Each module has the following structure:
+Each [CI-TRACS workshop](https://github.com/CI-TRACS) is represented as a separate module. Each module has the following structure:
 
   * [Prerequisites](/prerequisites), describing skills you should have prior to starting the module.
   * [Learning outcomes](/outcomes), describing the major goals for the module.
@@ -33,6 +31,20 @@ ICS 199 is structured as a sequential series of [modules](/modules), each taking
   * [Experiential learning activities](/experiences), providing a structured set of challenges enabling you to acquire mastery of material.
   * [Assessments](/assessments), which help you determine if you have acquired mastery of the material.
 
-## About the instructor
+## Morea vs. Software Carpentry
 
-[Philip Johnson](https://philipmjohnson.org) is a Professor of Information and Computer Sciences at the University of Hawaii. His research interests include climate change, educational technology, software engineering, and serious games. He is currently an active developer of [RadGrad](https://radgrad.org), an open source software system based on Javascript, Typescript, React, and Meteor.
+Currently, many (but not all) CI-TRACS workshops are implemented using the [Software Carpentry](https://carpentries.org/) workshop format.  Here are some of the pros and cons of these two systems:
+
+#### Advantages of Software Carpentry
+
+* In some cases, it appears that a CI-TRACS workshop is simply a fork of an existing Software Carpentry workshop (i.e. the [High Performance Computing workshop](https://github.com/CI-TRACS/High_Performance_Computing).) In this case, it is less work to simply make a fork than to re-represent the workshop using Morea.
+
+### Advantages of Morea
+
+* Morea allows all of the workshops to be represented as modules within a single site. This results in a "portal" to all workshops, making it easier to browse all of the workshops. For the Software Carpentry approach, the point of entry is the [CI-TRACS github organization home page](https://github.com/CI-TRACS).
+
+* Morea establishes a consistent format where each module is comprised of four pedagogical "elements" (Outcomes, Readings, Experiences, Assessments). Modules can share pedagogical elements. So, for example, an Outcome (such as "Become skilled with Jupyter Notebooks") can be part of multiple Modules, and users can easily see which modules support a given Outcome. This helps to establish relationships among workshops and develop "cohesion" in the set of workshops.
+
+* Morea supports an "Introduction" module, which is a convenient place to provide background material on the CI-TRACS program.
+
+* Morea supports [private files](https://morea-framework.github.io/docs/instructors/private-files), which enables instructors to keep exams and other assessment instruments in the repo.
