@@ -2,7 +2,7 @@
 title: "Assess your understanding of HPC concepts"
 published: true
 morea_id: assessment-hpc
-morea_summary: Understand use of Mana
+morea_summary: Evaluate your learning from this workshop
 morea_outcomes_assessed:
  - outcome-hpc
 morea_type: assessment
@@ -11,12 +11,16 @@ morea_sort_order: 12
 morea_labels:
 ---
 
-# A03: Assess your ability to reason about ethical issues in software development
+# Assess your understanding of HPC concepts
 
-## Overview
+<div class="alert alert-danger mt-4" role="alert" markdown="1">
+<i class="fa-solid fa-circle-exclamation fa-xl"></i> **Page Stub.**
+<hr/>
 
-After taking part in this assessment, you will have a better understanding of whetheryou can effectively reason about ethical issues in software development through reference to the ACM Code of Ethics and other ethics literature.
+If this assessment existed, it would provide some sort of activity that users could undertake in order to assess whether or not they learned the important concepts and skills associated with this workshop.
 
-## Outcomes
+It could be, but doesn't have to be, a "test". And it could, or could not, be provided back to workshop organizers.
 
-The following outcomes will be assessed: {{ page.morea_outcomes_assessed_titles }}
+Since many users are taking the workshop to support their own research, the assessment exercise could be to try to apply these concepts to their research and report back on how successful they were.
+
+</div>

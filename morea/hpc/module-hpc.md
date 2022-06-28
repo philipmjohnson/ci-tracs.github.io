@@ -6,13 +6,15 @@ morea_id: hpc
 morea_outcomes:
   - outcome-hpc
 morea_readings:
-morea_experiences:
+  - reading-code-of-conduct
   - experience-hpc-preparation
+morea_experiences:
   - experience-hpc-intro
   - experience-hpc-connecting
   - experience-hpc-deep-learning
 morea_assessments:
- - assessment-hpc
+  - assessment-hpc
+  - assessment-hpc-workshop
 morea_icon_url: /morea/hpc/Mana-Logo.jpg
 morea_type: module
 morea_sort_order: 125
@@ -22,4 +24,6 @@ morea_labels:
   - Workshop
 ---
 
-This workshop focuses on utilization of High performance Computing (HPC) clusters, such as Mana, for deep learning tasks as well as the benefits of understanding the different types of file systems available on HPC clusters and basic ways one would stage data from slower file systems to faster file systems.
+This workshop focuses on utilization of High Performance Computing (HPC) clusters, such as Mana, for deep learning tasks. 
+
+It also covers the benefits of understanding the different types of file systems available on HPC clusters and basic ways one would stage data from slower file systems to faster file systems.

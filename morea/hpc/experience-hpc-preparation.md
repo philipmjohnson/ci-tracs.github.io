@@ -1,15 +1,15 @@
 ---
-title: "0. Preparation"
+title: "Preparation"
 published: true
 morea_id: experience-hpc-preparation
-morea_type: experience
+morea_type: reading
 morea_summary: "Six things to know and do to prepare for this workshop"
 morea_sort_order: 1
 # morea_start_date: "2021-07-14T23:00"
 morea_labels:
 ---
 
-# 0. Preparation 
+# Preparation 
 
 Here are the things you need to do to be prepared for this workshop.
 

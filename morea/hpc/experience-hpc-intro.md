@@ -158,8 +158,7 @@ throughout the HPC system.
 
 ## Acknowledgements
 
-Material used and modfied from the [Introduction to High-Performance Computing" Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
-
+Material used and modified from the [Introduction to High-Performance Computing Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
 
 ## For comparison purposes
 

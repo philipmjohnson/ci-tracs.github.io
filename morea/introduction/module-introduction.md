@@ -6,6 +6,7 @@ morea_id: introduction
 morea_outcomes:
   - outcome-succeed-in-ci-tracs
 morea_readings:
+  - reading-code-of-conduct
   - reading-introduction-news-release
   - reading-ci-tracs-project-description
 morea_experiences:
@@ -19,4 +20,6 @@ morea_labels:
 morea_sort_order: 10
 ---
 
-This module provides background reading for CI-TRACS (CyberInsfrastructure TRaining to Advance Climate Science), whose goal is to create a multi-level capacity enhancement program for CI training and skills development that serves CI users, contributors and professionals in the climate science research community.
+This module provides background reading for the CI-TRACS (CyberInsfrastructure TRaining to Advance Climate Science) project.
+
+The goal of CI-TRACS is to create a multi-level capacity enhancement program for CI training and skills development that serves CI users, contributors and professionals in the climate science research community.
