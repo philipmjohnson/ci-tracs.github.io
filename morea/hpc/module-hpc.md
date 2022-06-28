@@ -12,6 +12,7 @@ morea_experiences:
   - experience-hpc-intro
   - experience-hpc-connecting
   - experience-hpc-deep-learning
+  - experience-hpc-file-systems
 morea_assessments:
   - assessment-hpc
   - assessment-hpc-workshop
