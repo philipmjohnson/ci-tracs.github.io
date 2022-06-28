@@ -51,7 +51,7 @@ file="/morea/hpc/fig/connect-to-remote.svg"
 alt="Connect to cluster" caption="" %}
 
 
-## Traditional HPC system access using Secure Shell (SSH)
+### Traditional HPC system access using Secure Shell (SSH)
 
 Most modern computers have a built in SSH client to their terminal.
 Alternative clients exist, primarily for windows or add-ons to web browsers,
@@ -64,7 +64,7 @@ before clicking "connect." From the terminal, you'll write something like `ssh
 userName@hostname`, where the "@" symbol is used to separate the two parts of a
 single argument.
 
-## Activity: Learn how to login using SSH
+### Activity: Learn how to login using SSH
 <div class="alert alert-secondary" role="alert" markdown="1">
 <i class="fa-solid fa-user-pen fa-xl"></i> **Login to Mana**
 <hr/>
@@ -81,7 +81,7 @@ Normal output will resume once you press `Enter`.
 
 
 
-## Open OnDemand - An alternative to using SSH
+### Open OnDemand - An alternative to using SSH
 
 While, SSH is a common method to connect to remote systems (HPC or even servers), tools that provide
 the same functionality and more exist.  One such tool is Open OnDemand (OOD).

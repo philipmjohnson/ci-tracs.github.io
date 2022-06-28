@@ -1,5 +1,8 @@
 /* Use this file to make simple customizations to your site theme. */
 
+/* Fiddle with js-toc */
+
+
 /* Make link anchors aware of sticky navbar */
 :target {
   scroll-margin-top: 60px;

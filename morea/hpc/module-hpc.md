@@ -7,7 +7,7 @@ morea_outcomes:
   - outcome-hpc
 morea_readings:
   - reading-code-of-conduct
-  - experience-hpc-preparation
+  - reading-hpc-preparation
 morea_experiences:
   - experience-hpc-intro
   - experience-hpc-connecting

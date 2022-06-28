@@ -12,6 +12,10 @@
   <script src="https://kit.fontawesome.com/020726ec0d.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
 
+  <!-- Table of contents -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+
   {% if site.morea_google_analytics_tracking_id %}
   <script>
     (function (i, s, o, g, r, a, m) {
@@ -123,7 +127,15 @@
 {% endif %}
 
 <!-- Add anchors to pages. -->
-<script>anchors.add();</script>
+<script>
+  anchors.add();
+</script>
+
+<script>
+  tocbot.init();
+</script>
+
+
 
 
 </body>

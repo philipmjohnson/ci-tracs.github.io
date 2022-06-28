@@ -3,11 +3,13 @@ layout: core
 ---
 {% include breadcrumb-4.html %}
 
+<div class="js-toc-content">
 {% if page.topdiv == 'container' %}
 <div class="container">
+  <div class="js-toc float-end border border-primary p-4"></div>
   {{ content }}
 </div>
 {% else %}
 {{ content }}
 {% endif %}
-
+</div>
