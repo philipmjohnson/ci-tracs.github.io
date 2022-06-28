@@ -1,5 +1,5 @@
 ---
-title: "What is High Performance Computing (HPC)?"
+title: "1. What is High Performance Computing (HPC)?"
 published: true
 morea_id: experience-hpc-intro
 morea_type: experience
@@ -7,10 +7,23 @@ morea_summary: "What is an HPC System? What are the components of an HPC system?
 morea_sort_order: 2
 # morea_start_date: "2021-07-14T23:00"
 morea_labels:
-  - 10 min
+  - 10 min (Teaching)
 ---
 
-## What Is an HPC System?
+<div class="alert alert-success mt-3" role="alert" markdown="1">
+<i class="fa-solid fa-globe fa-xl"></i> **Overview**
+<hr/>
+
+**Questions**
+  * What is an HPC System?
+  * What are the components of an HPC System?
+
+**Objectives**
+  * Understand the general HPC System architecture. 
+</div>
+
+
+## 1. What Is an HPC System?
 
 The words "cloud" and the phrase cluster or high-performance computing (HPC)
 are used a lot in different contexts and with various related meanings.
@@ -38,16 +51,16 @@ constraints, an HPC resource must exist in a specific, fixed location:
 networking cables can only stretch so far, and electrical and optical signals
 can travel only so fast.
 
-
-### What else is an HPC system good for?
+<div class="alert alert-info" role="alert" markdown="1">
+<i class="fa-solid fa-circle-info fa-xl"></i> **What else is an HPC system good for?**
+<hr/>
 
 While HPC is typically seen as where you go if you have large problems, HPC
 clusters can be used for even smaller cases where a single server is all that you need,
 or you have a reserach problem in which the task is very short, but you need to do tens
 of thousands of iterations, which is typically known as
 [High Throughput Computing (HTC)](https://en.wikipedia.org/wiki/High-throughput_computing).
-
-
+</div>
 
 ## Components of an HPC System
 
@@ -85,11 +98,13 @@ a volume larger than 500 MB to 1 GB as large. But these numbers change,
 e.g., depending on the network connection of yourself and of your cluster
 or other factors.
 
-## Data transfer nodes on Mana
+<div class="alert alert-info" role="alert" markdown="1">
+<i class="fa-solid fa-circle-info fa-xl"></i> **Data transfer nodes on Mana**
+<hr/>
 
-Mana has two such
-[data transfer nodes](https://www.hawaii.edu/bwiki/display/HPC/Data+transfer+Questions)
+Mana has two such [data transfer nodes](https://www.hawaii.edu/bwiki/display/HPC/Data+transfer+Questions)
 that are available for use.
+</div>
 
 ### Compute Nodes
 
@@ -97,21 +112,33 @@ The real work on a cluster gets done by the *compute* (or *worker*) *nodes*.
 Compute nodes come in many shapes and sizes, but generally are dedicated to long
 or hard tasks that require a lot of computational resources.
 
-## Differences Between Compute Nodes
+<div class="alert alert-info" role="alert" markdown="1">
+<i class="fa-solid fa-circle-info fa-xl"></i> **Data transfer nodes on Mana**
+<hr/>
+
+Mana has two such [data transfer nodes](https://www.hawaii.edu/bwiki/display/HPC/Data+transfer+Questions)
+that are available for use.
+</div>
+
+<div class="alert alert-info" role="alert" markdown="1">
+<i class="fa-solid fa-circle-info fa-xl"></i> **Differences Between Compute Nodes**
+<hr/>
 
 Many HPC clusters have a variety of nodes optimized for particular workloads.
 Some nodes may have larger amount of memory, or specialized resources such as
 Graphical Processing Units (GPUs).
-
+</div>
 
 All interaction with the compute nodes is handled by a specialized piece of
 software called a scheduler.
 
-## Mana scheduler
+<div class="alert alert-info" role="alert" markdown="1">
+<i class="fa-solid fa-circle-info fa-xl"></i> **Mana scheduler**
+<hr/>
 
 Mana utilizes a scheduler known as the
 [Slurm Workload Manager](https://slurm.schedmd.com/overview.html).
-
+</div>
 
 ### Support nodes
 
@@ -121,7 +148,19 @@ typically logon to or interact with these machines directly, they enable a
 number of key features like ensuring our user account and files are available
 throughout the HPC system.
 
+## Key Points
+
+<div class="alert alert-success" role="alert" markdown="1">
+
+* High Performance Computing (HPC) typically involves connecting to very large computing systems elsewhere in the world.
+* These systems can be used to do work that would either be impossible or much slower on smaller systems.
+</div>
+
+## Acknowledgements
+
+Material used and modfied from the [Introduction to High-Performance Computing" Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
 
 
-Material used and modfied from the
-["Introduction to High-Performance Computing" Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
+## For comparison purposes
+
+Here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/00-intro/index.html)

@@ -1,5 +1,5 @@
 ---
-title: "Preparation"
+title: "0. Preparation"
 published: true
 morea_id: experience-hpc-preparation
 morea_type: experience
@@ -9,7 +9,7 @@ morea_sort_order: 1
 morea_labels:
 ---
 
-# Preparation 
+# 0. Preparation 
 
 Here are the things you need to do to be prepared for this workshop.
 

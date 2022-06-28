@@ -9,6 +9,7 @@ morea_readings:
   - reading-introduction-news-release
   - reading-ci-tracs-project-description
 morea_experiences:
+  - experience-register
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/introduction/introduction.jpg

@@ -39,6 +39,8 @@ Currently, many (but not all) CI-TRACS workshops are implemented using the [Soft
 
 * In some cases, it appears that a CI-TRACS workshop is simply a fork of an existing Software Carpentry workshop (i.e. the [High Performance Computing workshop](https://github.com/CI-TRACS/High_Performance_Computing).) In this case, it is less work to simply make a fork than to re-represent the workshop using Morea.
 
+* Each Software Carpentry page has arrow links to go forward and backward. In Morea, when you finish a page, you have to go back up to the Module level and then down into the next page. 
+
 ### Advantages of Morea
 
 * Morea allows all of the workshops to be represented as modules within a single site. This results in a "portal" to all workshops, making it easier to browse all of the workshops. For the Software Carpentry approach, the point of entry is the [CI-TRACS github organization home page](https://github.com/CI-TRACS).

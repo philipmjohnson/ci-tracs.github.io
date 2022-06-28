@@ -8,3 +8,4 @@ morea_sort_order: 1
 
   * You understand the goals, structures, and procedures for success as a participant in CI-TRACS.
   * Your computer and its software is adequate to support the experiences you will have in this course.
+  * You know how to successfully register to participate in the CI-TRACS program.

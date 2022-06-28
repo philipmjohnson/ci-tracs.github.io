@@ -1,5 +1,5 @@
 ---
-title: "Connecting to a remote HPC System"
+title: "2. Connecting to a remote HPC System"
 published: true
 morea_id: experience-hpc-connecting
 morea_type: experience
@@ -11,7 +11,7 @@ morea_labels:
   - 10 min (Exercises)
 ---
 
-## Connecting to a Remote HPC system
+## 2. Connecting to a Remote HPC system
 The first step in using a cluster is to establish a connection from our laptop
 to the cluster. When we are sitting at a computer (or standing, or holding it
 in our hands or on our wrists), we have come to expect a visual display with

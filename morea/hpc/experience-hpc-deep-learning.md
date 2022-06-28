@@ -1,5 +1,5 @@
 ---
-title: "Deep learning CPU vs GPU"
+title: "3. Deep learning CPU vs GPU"
 published: true
 morea_id: experience-hpc-deep-learning
 morea_type: experience
