@@ -50,7 +50,7 @@ In the [real CI-TRACS site](https://github.com/ci-tracs), many (but not all) wor
 
 * Software Carpentry has specialized support for workshops, such as a timeline of activities. So, for representing workshops, Software Carpentry has some UI advantages.
 
-* CI-TRACS personnel are already familiar with Software Carpentry and understand how to use it. Unless they've already used it, CI-TRACS folks will additional work to learn how to use Morea.  Documentation on Morea is available at: [https://morea-framework.github.io/](https://morea-framework.github.io/). (I am happy to help support this transition if we decide that's what we want to do.)
+* CI-TRACS personnel are already familiar with Software Carpentry and understand how to use it. Unless they've already used it, CI-TRACS folks will need to invest some time to learn how to use Morea.  (I am happy to help support this transition if we decide that's what we want to do.)
 
 **Potential Advantages of Morea**
 

@@ -3,7 +3,7 @@ title: "Understand how to succeed in CI-TRACS"
 published: true
 morea_id: outcome-succeed-in-ci-tracs
 morea_type: outcome
-morea_sort_order: 1
+morea_sort_order: 10
 ---
 
   * You understand the goals, structures, and procedures for success as a participant in CI-TRACS.

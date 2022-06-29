@@ -3,7 +3,7 @@ title: "Understand basic Python and Jupyter"
 published: true
 morea_id: outcome-python-jupyter
 morea_type: outcome
-morea_sort_order: 1
+morea_sort_order: 05
 ---
 
   * You understand the basic syntax of Python.

@@ -1,9 +1,9 @@
 ---
-title: "Basic understanding of HPC concepts"
+title: "Understand basic HPC concepts"
 published: true
 morea_id: outcome-hpc
 morea_type: outcome
-morea_sort_order: 9
+morea_sort_order: 20
 ---
 * How to access Open OnDemand and use Jupyter Lab on Mana
 * How to request GPUs and utilize them for deep learning tasks
