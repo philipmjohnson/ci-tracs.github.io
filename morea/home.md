@@ -50,6 +50,8 @@ In the [real CI-TRACS site](https://github.com/ci-tracs), many (but not all) wor
 
 * Software Carpentry has specialized support for workshops, such as a timeline of activities. So, for representing workshops, Software Carpentry has some UI advantages.
 
+* CI-TRACS personnel are already familiar with Software Carpentry and understand how to use it. Unless they've already used it, CI-TRACS folks will additional work to learn how to use Morea.  Documentation on Morea is available at: [https://morea-framework.github.io/](https://morea-framework.github.io/).
+
 **Potential Advantages of Morea**
 
 * Morea implements a single site where each workshop is represented as a module. This makes it easy to: represent (and inter-relate) all of the workshops; browse the workshops for users; and show relationships between workshops.  The Software Carpentry approach results in entirely independent sites for each workshop. Currently, the point of entry to all the workshops is the [CI-TRACS github organization home page](https://github.com/CI-TRACS), which is not particularly user friendly. To create a better top-level "portal" for the current approach, one would have to create a brand new site (presumably in the ci-tracs/ci-tracs.github.io repo), which would need to be updated manually to maintain consistency as the set of workshops change over time.
