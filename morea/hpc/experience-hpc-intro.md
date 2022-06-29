@@ -5,7 +5,6 @@ morea_id: experience-hpc-intro
 morea_type: experience
 morea_summary: "What is an HPC System? What are the components of an HPC system?"
 morea_sort_order: 2
-# morea_start_date: "2021-07-14T23:00"
 morea_labels:
   - 10 min (Teaching)
 morea_enable_toc: true

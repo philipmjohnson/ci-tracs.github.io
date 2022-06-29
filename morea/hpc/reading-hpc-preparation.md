@@ -5,7 +5,6 @@ morea_id: reading-hpc-preparation
 morea_type: reading
 morea_summary: "Six things to know and do to prepare for this workshop"
 morea_sort_order: 1
-# morea_start_date: "2021-07-14T23:00"
 morea_labels:
 ---
 

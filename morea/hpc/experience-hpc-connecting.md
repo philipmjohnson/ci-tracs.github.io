@@ -5,7 +5,6 @@ morea_id: experience-hpc-connecting
 morea_type: experience
 morea_summary: "Understand how to connect to an HPC system and the basics of Open OnDemand"
 morea_sort_order: 3
-# morea_start_date: "2021-07-14T23:00"
 morea_labels:
   - 10 min (Teaching)
   - 10 min (Exercises)

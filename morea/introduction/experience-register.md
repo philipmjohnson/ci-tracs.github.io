@@ -5,7 +5,6 @@ morea_id: experience-register
 morea_type: experience
 morea_summary: "Interested in CI-TRACS? Here's how you can get involved!"
 morea_sort_order: 1
-# morea_start_date: "2021-07-14T23:00"
 morea_labels:
 ---
 

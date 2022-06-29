@@ -5,7 +5,6 @@ morea_id: experience-hpc-file-systems
 morea_type: experience
 morea_summary: "What is a file system? What is a distributed file system? How do you optimize the file system on Mana?"
 morea_sort_order: 2
-# morea_start_date: "2021-07-14T23:00"
 morea_labels:
   - 20 min (Teaching)
   - 20 min (Exercises)

@@ -11,6 +11,7 @@ morea_readings:
 morea_experiences:
   - experience-python-tutorial-python-org
   - experience-python-tutorial-freecodecamp
+  - experience-jupyter-tutorial-datacamp
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/python-jupyter/python-logo.jpg
