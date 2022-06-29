@@ -9,7 +9,7 @@ published: true
 <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: This is not the real CI-TRACS site.**
 <hr/>
 
-This site is currently a mockup that illustrates:
+This site is currently a mockup that is intended to help us understand:
 
 1. How the CI-TRACS workshops could be represented as Morea modules, and
 2. The pros and cons of Morea vs. Software Carpentry

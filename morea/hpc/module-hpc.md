@@ -16,9 +16,11 @@ morea_experiences:
 morea_assessments:
   - assessment-hpc
   - assessment-hpc-workshop
+morea_prerequisites:
+  - prerequisite-python-jupyter
 morea_icon_url: /morea/hpc/Mana-Logo.jpg
 morea_type: module
-morea_sort_order: 125
+morea_sort_order: 30
 # morea_start_date: "2021-07-26"
 # morea_end_date: "2021-07-30T23:00"
 morea_labels:
