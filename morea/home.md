@@ -62,6 +62,6 @@ In the [real CI-TRACS site](https://github.com/ci-tracs), many (but not all) wor
 
 * By putting all material in a single site, Morea makes it easy to provide useful non-workshop material, such as an "Introduction" module with background material on the CI-TRACS program and information on how to get involved.
 
-* For instructors, a very useful feature of Morea is [private files](https://morea-framework.github.io/docs/instructors/private-files), which enables instructors to keep exams, "to do" lists, notes for future instructors, and other information that is not appropriate for sharing with student participants.
+* For instructors, a very useful feature of Morea is [private files](https://morea-framework.github.io/docs/instructors/private-files), which enables instructors to keep exams, "to do" lists, notes for future instructors, and other information that is not appropriate for sharing with workshop participants.
 
 </div>
