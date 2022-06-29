@@ -9,6 +9,7 @@ morea_sort_order: 3
 morea_labels:
   - 10 min (Teaching)
   - 10 min (Exercises)
+morea_enable_toc: true
 ---
 
 <div class="alert alert-success mt-3" role="alert" markdown="1">
@@ -24,7 +25,7 @@ morea_labels:
 * Understand basics of Open OnDemand.
 </div>
 
-## 2. Connecting to a Remote HPC system
+## Connecting to a Remote HPC system
 
 The first step in using a cluster is to establish a connection from our laptop
 to the cluster. When we are sitting at a computer (or standing, or holding it
@@ -51,7 +52,7 @@ file="/morea/hpc/fig/connect-to-remote.svg"
 alt="Connect to cluster" caption="" %}
 
 
-### Traditional HPC system access using Secure Shell (SSH)
+## Traditional HPC system access using Secure Shell (SSH)
 
 Most modern computers have a built in SSH client to their terminal.
 Alternative clients exist, primarily for windows or add-ons to web browsers,
@@ -81,7 +82,7 @@ Normal output will resume once you press `Enter`.
 
 
 
-### Open OnDemand - An alternative to using SSH
+## Open OnDemand - An alternative to SSH
 
 While, SSH is a common method to connect to remote systems (HPC or even servers), tools that provide
 the same functionality and more exist.  One such tool is Open OnDemand (OOD).
@@ -202,6 +203,5 @@ alt="Connect to cluster" caption="" %}
 Material used and modified from the [Introduction to High-Performance Computing Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
 
 
-## For comparison purposes
-
-Here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/10-hpc/index.html)
+<hr/>
+For comparison purposes, here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/10-hpc/index.html)

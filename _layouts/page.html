@@ -6,7 +6,9 @@ layout: core
 <div class="js-toc-content">
 {% if page.topdiv == 'container' %}
 <div class="container">
-  <div class="js-toc float-end border border-primary p-4"></div>
+  {% if page.morea_enable_toc %}
+    <div class="js-toc float-end border border-primary bg-light text-dark p-4 m-4"></div>
+  {% endif %}
   {{ content }}
 </div>
 {% else %}

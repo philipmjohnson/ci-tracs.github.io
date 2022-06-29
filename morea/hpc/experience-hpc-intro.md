@@ -8,6 +8,7 @@ morea_sort_order: 2
 # morea_start_date: "2021-07-14T23:00"
 morea_labels:
   - 10 min (Teaching)
+morea_enable_toc: true
 ---
 
 <div class="alert alert-success mt-3" role="alert" markdown="1">
@@ -23,7 +24,7 @@ morea_labels:
 </div>
 
 
-## 1. What Is an HPC System?
+## What is High Performance Computing?
 
 The words "cloud" and the phrase cluster or high-performance computing (HPC)
 are used a lot in different contexts and with various related meanings.
@@ -160,6 +161,5 @@ throughout the HPC system.
 
 Material used and modified from the [Introduction to High-Performance Computing Incubator workshop](https://carpentries-incubator.github.io/hpc-intro/).
 
-## For comparison purposes
-
-Here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/00-intro/index.html)
+<hr/>
+For comparison purposes, here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/00-intro/index.html)

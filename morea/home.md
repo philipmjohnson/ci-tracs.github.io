@@ -46,11 +46,15 @@ In the real CI-TRACS site, many (but not all) workshops are implemented using th
 
 * Each Software Carpentry page has arrow links to go forward and backward, which simplifies linear navigation within a workshop. In Morea, when you finish a page, there is no "next" link. Instead, you have to go back up to the Module level and then down into the next page. 
 
+* Software Carpentry has specialized support for workshops, such as a timeline of activities. 
+
 ### Advantages of Morea
 
 * Perhaps the most important advantage of Morea is that it provides a single site to represent (and inter-relate) all of the workshops.  This makes it easier to browse the workshops for users, and makes it easier to show the relationships between workshops.  The Software Carpentry approach results in entirely independent sites for each workshop. Currently, the point of entry is the [CI-TRACS github organization home page](https://github.com/CI-TRACS), which is not particularly user friendly. To create a better top-level "portal", one would have to create a brand new site, which would need to be updated manually to maintain consistency with the set of workshops. 
 
 * A second advantage of Morea is its [pedagogical pattern](https://morea-framework.github.io/docs/instructors/pedagogical-pattern) (Outcomes, Readings, Experiences, Assessments). This helps instructors represent workshops in a consistent manner, and helps them to remember to include all elements (for example, Assessments seems to be lacking in most of the Workshops).  In addition to helping instructors structure their workshops consistently and completely, it is possible to share elements across multiple modules (i.e. workshops).  For example, the "CI-TRACS Code of Conduct" reading is defined once, and then included as a reading in all workshop modules. 
+
+* Unlike Software Carpentry, Morea is not designed specifically for workshops. This makes it easier to support other kinds of educational activities, such as going through a Python tutorial. 
 
 * By putting all material in a single site, Morea makes it easy to provide useful non-workshop material, such as an "Introduction" module with background material on the CI-TRACS program and information on how to get involved.
 

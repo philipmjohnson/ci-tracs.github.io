@@ -9,6 +9,7 @@ morea_sort_order: 4
 morea_labels:
   - 40 min (Teaching)
   - 10 min (Exercises)
+morea_enable_toc: true
 ---
 
 <div class="alert alert-success mt-3" role="alert" markdown="1">
@@ -569,6 +570,5 @@ Why would you need an HPC cluster over your personal computer?
 * Using multiple GPUs won’t improve the performance of your machine learning model. It only helps for a very complex computation or large models.
 </div>
 
-## For comparison purposes
-
-Here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/11-hpc-deep-learning/index.html)
+<hr/>
+For comparison purposes, here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/11-hpc-deep-learning/index.html)

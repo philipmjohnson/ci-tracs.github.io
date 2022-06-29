@@ -1,7 +1,20 @@
 /* Use this file to make simple customizations to your site theme. */
 
 /* Fiddle with js-toc */
+.toc-list {
+}
 
+.js-toc-content {
+
+}
+
+.is-active-link {
+  font-weight: normal;
+}
+
+.alert {
+  position: initial;
+}
 
 /* Make link anchors aware of sticky navbar */
 :target {

@@ -6,7 +6,6 @@
   <meta charset="utf-8">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/css/themes/{{ site.morea_theme }}/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
   <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
   <script src="https://kit.fontawesome.com/020726ec0d.js" crossorigin="anonymous"></script>
@@ -15,6 +14,9 @@
   <!-- Table of contents -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+
+  <!-- Load site customizations last -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 
   {% if site.morea_google_analytics_tracking_id %}
   <script>
@@ -132,7 +134,11 @@
 </script>
 
 <script>
-  tocbot.init();
+  tocbot.init({
+    headingsOffset: 70,
+    scrollSmoothOffset: -70,
+    collapseDepth: 6,
+  });
 </script>
 
 

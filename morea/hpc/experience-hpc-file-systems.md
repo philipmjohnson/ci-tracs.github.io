@@ -9,6 +9,7 @@ morea_sort_order: 2
 morea_labels:
   - 20 min (Teaching)
   - 20 min (Exercises)
+morea_enable_toc: true
 ---
 
 <div class="alert alert-success mt-3" role="alert" markdown="1">
@@ -257,6 +258,5 @@ with tf.device('/device:GPU:0'):
 </div>
 
 
-## For comparison purposes
-
-Here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/12-hpc-file-systems/index.html)
+<hr/>
+For comparison purposes, here's the [Software Carpentry version of this page](https://ci-tracs.github.io/High_Performance_Computing/12-hpc-file-systems/index.html)
